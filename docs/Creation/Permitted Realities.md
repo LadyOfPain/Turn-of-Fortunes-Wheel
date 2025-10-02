@@ -1,0 +1,20 @@
+### Homebrew
+- [The Arcane Forge](the-arcane-forge.pdf)
+- [The Warlord Class](the-warlord-class.pdf)
+
+### Official
+- [Astral Adventurer's Guide](https://5e.tools/book.html#aag)
+- [Bigby Presents: Glory of the Giants](https://5e.tools/book.html#bgg)
+- [Eberron Rising from the Last War](https://5e.tools/book.html#erlw)
+- [Explorer's Guide to Wildemount](https://5e.tools/book.html#egw)
+- [Fizban's Treasury of Dragons](https://5e.tools/book.html#ftd)
+- [Mordenkainen Presents: Monsters of the Multiverse](https://5e.tools/book.html#mpmm)
+- [Mythic Odysseys of Theros](https://5e.tools/book.html#mot)
+- [Player's Handbook (2024)](https://5e.tools/book.html#xphb)
+- [Sigil and the Outlands](https://5e.tools/book.html#sato)
+- [Sword Coast Adventurer's Guide](https://5e.tools/book.html#scag)
+- [Tal'Dorei Campaign Setting Reborn](https://5e.tools/book.html#tdcsr)
+- [Tasha's Cauldron of Everything](https://5e.tools/book.html#tce)
+- [Van Richten's Guide to Ravenloft](https://5e.tools/book.html#vrgr)
+- [Volo's Guide to Monsters](https://5e.tools/book.html#vgm)
+- [Xanathar's Guide to Everything](https://5e.tools/book.html#xge) 

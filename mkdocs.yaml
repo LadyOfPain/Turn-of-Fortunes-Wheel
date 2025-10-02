@@ -1,0 +1,39 @@
+site_name: Turn of Fortune's Wheel
+repo_url: https://github.com/LadyOfPain/Turn-of-Fortunes-Wheel/
+site_description: An Open Portal Beckons
+site_author: The Lady of Pain
+
+theme:
+  name: material
+
+nav:
+  - Error: index.md
+  - Creation: 
+      - Rules of Creation: Creation/Rules of Creation.md
+      - Permitted Realities: Creation/Permitted Realities.md
+      - Additional Rulings: Creation/Additional Rulings.md
+      - Advice for Mortals: Creation/Advice for Mortals.md
+
+not_in_nav: | 
+  /Home.md
+  /Creation/the-arcane-forge.pdf
+  /Creation/the-warlord-class.pdf
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - smarty
+  - toc:
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+validation:
+  links:
+    absolute_links: ignore
+    anchors: ignore
+
+plugins:
+  - pub-obsidian:
+      backlinks: 
+        enabled: false
