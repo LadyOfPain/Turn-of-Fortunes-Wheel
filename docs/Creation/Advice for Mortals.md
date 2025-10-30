@@ -41,3 +41,7 @@ Cut rather than add. Abide by the core idea of your character. If something does
 ###  Remember the Game
 
 Focus on play. If your idea doesn't help you play, then it's a character in a book not a character in an RPG. If an idea doesn't contribute to play, cut it. If it isn't fun, throw it out.
+
+# Be Curious
+
+Sigil is the Realm of Doors. You need only reach out and [[Doors|open]] one.
