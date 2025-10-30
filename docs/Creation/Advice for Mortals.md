@@ -44,4 +44,4 @@ Focus on play. If your idea doesn't help you play, then it's a character in a bo
 
 # Be Curious
 
-Sigil is the Realm of Doors. You need only reach out and [[Doors|open]] one.
+Sigil is the Realm of Doors. You need only reach out and [[../Doors|open]] one.
